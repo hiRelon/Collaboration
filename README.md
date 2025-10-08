@@ -5,4 +5,4 @@ Setiap anggota kelompok diminta untuk melakukan perubahan pada file 'data.txt'.
 
 ## Anggota Kelompok
 - Putri Apriyanti 🍉
-- Sharleen Rastya Ayu Rahman
+- Sharleen Rastya Ayu Rahman 🧶
